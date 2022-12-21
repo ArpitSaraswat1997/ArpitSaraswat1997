@@ -1,6 +1,6 @@
 <h1 align="left">Hi There <img width="40px" 
 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋"/>, 
-I'm Shivam Mishra <img width="45px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"
+I'm Arpit Saraswat <img width="45px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"
 alt="😎"/>
 </h1>
 
@@ -13,36 +13,25 @@ of my technical and management skills. Experienced in
 working on various projects through remote collaboration.</h4>
 </br>
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-m-7" /> </p>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArpitSaraswat1997&label=Profile%20views&color=0e75b6&style=flat" alt="ArpitSaraswat1997" /> </p>
+<img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
 
-- 💼 My Portfolio https://shivam-m-7.github.io 
+- 💼 My Portfolio [(https://github.com/ArpitSaraswat1997) ]
 
-- 🤝 Group Project  [IndiaMart - Clone](https://github.com/AnupKamble/IndiaMart-Clone)
+- 🤝 Group Project  [Nykaa - Clone](https://github.com/ArpitSaraswat1997/nykaa_Clone) 
 
-- 🤝 Group Project  [asos - Clone](https://github.com/shivam-m-7/asos) 
+- 🤝 Group Project  [Shop.com- Clone](https://github.com/ArpitSaraswat1997/Shop.com)
 
-- 👨‍💻 Individual Project [Have'nt done any yet]()
+- 📧 Ask me about **Fronted**
 
-- 👨‍💻 I’m currently learning **MERN STACK**
+- ❓ How to reach me **arpitsaraswat1997@gmail.com**
 
-- 📧 Ask me about **Backend**
-
-- ❓ How to reach me **shivammmishra7@gmail.com**
- <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
-
-- 📄 Resume [Resume](https://drive.google.com/file/d/1ZdvMmK1NpO-0FWocUAsZ4OKz9upmiW68/view?usp=sharing)
-
-- ⚡ Fun fact **I am Sarcastic!**
-
-
-
+- 📄 Resume 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-mishra-sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-mishra-sde" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shivam-m-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivam-m-7" height="30" width="40" /></a>
-        <a href="https://twitter.com/ShivamM59787232?t=IVW4uIxLoBLRlIbdyWKwGQ&s=08" target="blank"><img align="center" src="http://i.imgur.com/tXSoThF.png" alt="ShivamM59787232" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/arpit-saraswat-4190a6192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpit-saraswat-4190a6192/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -63,9 +52,9 @@ working on various projects through remote collaboration.</h4>
 </p>
 
 🛠 Current Stats:
-<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=shivam-m-7&show_icons=true&locale=en&theme=tokyonight" alt="shivam-m-7" /></p>
+<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=ArpitSaraswat1997&show_icons=true&locale=en&theme=tokyonight" alt="Arpitsaraswat1997" /></p>
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-m-7&show_icons=true&locale=en&theme=tokyonight" alt="shivam-m-7" /></p>
+<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitSaraswat1997&show_icons=true&locale=en&theme=tokyonight" alt="Arpitsaraswat1997" /></p>
 
 <p><img align="center" width="90%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-m-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivam-m-7" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=ArpitSaraswat1997&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArpitSaraswat1997" /></p>
