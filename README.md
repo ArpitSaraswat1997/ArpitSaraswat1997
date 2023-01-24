@@ -26,7 +26,7 @@ working on various projects through remote collaboration.</h4>
 
 - ❓ How to reach me **arpitsaraswat1997@gmail.com**
 
-- 📄 Resume 
+- 📄 [Resume](https://drive.google.com/file/d/1d9V5vvQqW0pAAeUR_2Hq7JyDpI1uAv-u/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
