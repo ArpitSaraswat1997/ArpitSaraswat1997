@@ -21,7 +21,8 @@ working on various projects through remote collaboration.</h4>
 - 🤝 Group Project  [Nykaa - Clone](https://github.com/ArpitSaraswat1997/nykaa_Clone) 
 
 - 🤝 Group Project  [Shop.com- Clone](https://github.com/ArpitSaraswat1997/Shop.com)
-- - 🤝 Group Project  [Ikea- clone](https://github.com/ArpitSaraswat1997/ikea_clone))
+
+- 🤝 Group Project  [Ikea- clone](https://github.com/ArpitSaraswat1997/ikea_clone))
 
 - 📧 Ask me about **Fronted**
 
