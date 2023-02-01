@@ -16,7 +16,7 @@ working on various projects through remote collaboration.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArpitSaraswat1997&label=Profile%20views&color=0e75b6&style=flat" alt="ArpitSaraswat1997" /> </p>
 <img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
 
-- 💼 My Portfolio [Port-folio](https://arpit-portfolio-1997.netlify.app/)
+- 💼 My Portfolio [Port-folio](https://arpit-saraswat-1997.netlify.app/)
 
 - 🤝 Group Project  [Nykaa - Clone](https://github.com/ArpitSaraswat1997/nykaa_Clone) 
 
